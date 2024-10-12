@@ -1,7 +1,7 @@
 
 //import soma from "./soma.js";
 
-const soma = require("./soma")
+import soma from "./soma"
 
 describe("Testes de soma", () => {
 test("Deve verificar o resultado de uma soma", () => {
